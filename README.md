@@ -1,7 +1,5 @@
 # 2.List_of_breton-s_prepositions
-This lists are not exhaustive.
-Ces listes ne sont pas exhaustives.
-Al listennoù-mañ n'int ket peurglok.
+This lists are not exhaustive. - Ces listes ne sont pas exhaustives. - Al listennoù-mañ n'int ket peurglok.
 
 
 - prepositions_in_Vannes's_breton : 
